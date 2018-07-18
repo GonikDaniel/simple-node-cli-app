@@ -11,6 +11,7 @@
   "author": "Daniel Gonik <gonik.daniel88@gmail.com> (http://igonik.ru/)",
   "license": "ISC",
   "dependencies": {
-    "execa": "0.10.0"
+    "execa": "0.10.0",
+    "listr": "0.14.1"
   }
 }
