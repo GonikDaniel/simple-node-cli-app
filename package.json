@@ -7,6 +7,9 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "fix-package-json": "./index.js"
+  },
   "keywords": [],
   "author": "Daniel Gonik <gonik.daniel88@gmail.com> (http://igonik.ru/)",
   "license": "ISC",
